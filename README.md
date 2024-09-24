@@ -23,7 +23,7 @@ This Processing sketch demonstrates K-means clustering for visual abstraction of
 ## Usage
 
 - Use the slider at the bottom of the window to adjust the number of clusters (k).
-- Press 'S' or 's' to toggle pixel sorting within clusters.
+- Press “S” or “s” to toggle pixel sorting within clusters.
 
 ## Files
 
